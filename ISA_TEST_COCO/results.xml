@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1683233422" />
+    <testcase name="ISA_TEST" classname="ISA_TEST" file="C:\Users\ardaunver\Desktop\EE446PRE3\ISA_TEST_COCO\ISA_TEST.py" lineno="45" time="0.6126456260681152" sim_time_ns="706000" ratio_time="1152379.0752102837" />
+  </testsuite>
+</testsuites>

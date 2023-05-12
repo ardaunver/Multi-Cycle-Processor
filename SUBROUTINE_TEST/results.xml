@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1683233352" />
+    <testcase name="SR_TEST" classname="SR_TEST" file="C:\Users\ardaunver\Desktop\EE446PRE3\SUBROUTINE_TEST\SR_TEST.py" lineno="45" time="5.760719537734985" sim_time_ns="3206000" ratio_time="556527.7009233717" />
+  </testsuite>
+</testsuites>
